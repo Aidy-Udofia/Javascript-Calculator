@@ -1,0 +1,52 @@
+.containers{
+      background-color: dodgerblue;
+      height: 200px;
+      width: 100%;
+      margin: auto;
+      padding: 10px;
+}
+body{
+      justify-content: center;
+      text-align: center;
+      background-color: #eeeeee;
+}
+#rty{
+      border-radius: 50%;
+      border: 5px solid white;
+       top: -100px;
+     position: relative;
+}
+#Aidy{
+      color: grey;
+      font-size: 20px;
+      top: -55px;
+      position: relative;
+}
+.container{
+      background-color: white;
+      padding: 40px;
+      top: -40px;
+      position: relative;
+      margin-right: 100px;
+      margin-left: 100px;
+      margin-bottom: 70px;
+}
+hr{
+      opacity: 0.2;
+}
+.big-btn{
+      text-decoration: none;
+     background-color: dodgerblue;
+     color: white;
+     padding: 10px;
+     border-radius: 7px;
+}
+.small-btn{
+      background-color:rgb(175, 175, 5);
+      color: white;
+      padding: 5px;
+      border-radius: 5px;
+}
+.lead{
+      font-size: 20px
+}
